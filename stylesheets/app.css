@@ -1753,7 +1753,8 @@ p.vevent abbr {
 /* line 8, ../../../../../../../../Library/Ruby/Gems/1.8/gems/zurb-foundation-3.0.4/stylesheets/foundation/buttons.scss */
 .button {
   width: auto;
-  background: #2ba6cb;
+/*background: #2ba6cb;*/
+  background: #3687d3;
   border: 1px solid #1e728c;
   -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
@@ -1761,11 +1762,11 @@ p.vevent abbr {
   color: white;
   cursor: pointer;
   display: inline-block;
-  /*font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
-  font-family: "Museo Slab", serif;
-  /*font-size: 14px;*/
+/*font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+  /*font-family: "Museo Slab", serif;*/
+/*font-size: 14px;*/
   font-size: 16px;
-  /*font-weight: bold;*/
+/*font-weight: bold;*/
   font-weight: 700;
   line-height: 1;
   margin: 0;
@@ -1774,6 +1775,7 @@ p.vevent abbr {
   position: relative;
   text-align: center;
   text-decoration: none;
+ text-transform: uppercase;
   -webkit-transition: background-color 0.15s ease-in-out;
   -moz-transition: background-color 0.15s ease-in-out;
   -o-transition: background-color 0.15s ease-in-out;
