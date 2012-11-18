@@ -1761,9 +1761,12 @@ p.vevent abbr {
   color: white;
   cursor: pointer;
   display: inline-block;
-  font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-size: 14px;
-  font-weight: bold;
+  /*font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+  font-family: "Museo Slab", serif;
+  /*font-size: 14px;*/
+  font-size: 16px;
+  /*font-weight: bold;*/
+  font-weight: 700;
   line-height: 1;
   margin: 0;
   outline: none;
